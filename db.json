@@ -1,9 +1,9 @@
 {
   "todos": [
-    { "id": "1", "name": "Wohnzimmer", "task": "Aufräumen" },
-    { "id": "2", "name": "Schlafzimmer", "task": "Bett beziehen" },
-    { "id": "3", "name": "Küche", "task": "Spülen" },
-    { "id": "4", "name": "Bad", "task": "Putzen" },
-    { "id": "5", "name": "Flur", "task": "Saugen" }
+    { "id": "1", "title": "Wohnzimmer", "task": "Aufräumen" },
+    { "id": "2", "title": "Schlafzimmer", "task": "Bett beziehen" },
+    { "id": "3", "title": "Küche", "task": "Spülen" },
+    { "id": "4", "title": "Bad", "task": "Putzen" },
+    { "id": "5", "title": "Flur", "task": "Saugen" }
   ]
 }
